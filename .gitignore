@@ -1,0 +1,48 @@
+
+web/api/__pycache__/
+
+web/api/migrations/*
+!web/api/migrations/__init__.py
+
+web/canhemon/__pycache__/
+
+app/treeChecker/src/screens/resources/web/createAOI\.bundle\.js
+
+app/treeChecker/package-lock\.json
+
+app/treeChecker/src/screens/resources/web/createAOI\.html
+
+app/treeChecker/src/screens/resources/web/baseMap\.bundle\.js
+
+app/treeChecker/src/screens/resources/web/baseMap\.html
+
+app/treeChecker/src/screens/resources/web/centerPin\.bundle\.js
+
+app/treeChecker/src/screens/resources/web/centerPin\.html
+
+web/TODO
+
+app/treeChecker/android/app/src/main/assets/web/
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyc
+
+# PyCharm and Aptana files
+.idea
+.project
+.pydevproject
+.settings/
+
+# Komodo Editor files
+*.komodoproject
+.komodotools/
+
+# Django
+*.log
+.venv
+venv/
+/static/
+docs/
